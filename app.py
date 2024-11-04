@@ -37,10 +37,10 @@ with col3:
 col1, col2 = st.sidebar.columns(2)
 
 with col1:
-    st.image("./Resources/cloudSolutions.jpg")
+    st.image("cloudSolutions.jpg")
 
 with col2:
-    st.image("./Resources/rayan.png")
+    st.image("rayan.png")
 
 # Display the appropriate page based on session state
 if st.session_state.page == "hospital":
@@ -79,7 +79,7 @@ def set_background_image(image_path):
     st.markdown(background_image_style, unsafe_allow_html=True)
 
 # Path to the background image
-image_path = "./Resources/bgimage.png"
+image_path = "bgimage.png"
 
 # Call the function to set the background image
 set_background_image(image_path)
