@@ -1,0 +1,3 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,SellingÂ  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6240020010,HUMULIN R VIAL 10 ML 1'S,Medicine,Rayan ER Pharmacy,RYN_ERP,MEP PHARMACY DC,MEP_DE,REP8906,1111598510.0,02-01-2024,53.55,-107.1,501754.0,VL,Return to Store/Other Branch,2.0,40.75481,-81.50963,0.0,0.0
+6240020010,HUMULIN R VIAL 10 ML 1'S,Medicine,Rayan ER Pharmacy,RYN_ERP,,,,1133734743.0,12-02-2024,53.55,-214.2,501772.0,VL,Issue to Patient,4.0,43.95637,-175.82547,6.0,263.73821

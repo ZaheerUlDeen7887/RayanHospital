@@ -1,0 +1,4 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6340020027,EZILAX 67% SYR 300 ML,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15641828,1148935884,12-03-2024,18.45,-18.45,471365.0,20,Move Order Issue,1.0,11.18476,-11.18476,0.0,0.0
+6340020027,EZILAX 67% SYR 300 ML,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15829520,1178578054,13-05-2024,21.95,-21.95,471375.0,20,Move Order Issue,1.0,11.25635,-11.25635,0.0,0.0
+6340020027,EZILAX 67% SYR 300 ML,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15904008,1188639356,30-05-2024,21.95,-21.95,471376.0,20,Move Order Issue,1.0,11.27463,-11.27463,0.0,0.0
